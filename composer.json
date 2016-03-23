@@ -1,0 +1,14 @@
+{
+    "name": "hectorip/functional",
+    "description": "functional",
+    "authors": [
+      {
+        "name": "Héctor Iván Patricio Moreno",
+        "email": "hectorivanpatriciomoreno@gmail.com"
+      }
+    ],
+    "require": {
+      "lstrojny/functional-php": "~1.2",
+      "silex/silex": "~1.3"
+    }
+}
